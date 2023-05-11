@@ -69,13 +69,10 @@ public class ProductServiceImpl implements ProductService{
 		}
 		
 	}
-	public void test()
+	public void time()
 	{
 		System.out.println("my tests");
 	}
 
-	public void test2()
-	{
-		System.out.println("my tests");
-	}
+	
 }

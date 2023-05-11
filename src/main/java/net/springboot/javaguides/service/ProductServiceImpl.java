@@ -74,4 +74,8 @@ public class ProductServiceImpl implements ProductService{
 		System.out.println("my tests");
 	}
 
+	public void test2()
+	{
+		System.out.println("my tests");
+	}
 }
